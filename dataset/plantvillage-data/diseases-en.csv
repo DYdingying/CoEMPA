@@ -1,0 +1,1171 @@
+record_id,crop,symptom,diagnosis,image_paths,confirmed_by
+D00001,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (1).JPG",PlantVillage
+D00002,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (2).JPG",PlantVillage
+D00003,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (3).JPG",PlantVillage
+D00004,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (4).JPG",PlantVillage
+D00005,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (5).JPG",PlantVillage
+D00006,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (6).JPG",PlantVillage
+D00007,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (7).JPG",PlantVillage
+D00008,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (8).JPG",PlantVillage
+D00009,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (9).JPG",PlantVillage
+D00010,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (10).JPG",PlantVillage
+D00011,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (11).JPG",PlantVillage
+D00012,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (12).JPG",PlantVillage
+D00013,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (13).JPG",PlantVillage
+D00014,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (14).JPG",PlantVillage
+D00015,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (15).JPG",PlantVillage
+D00016,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (16).JPG",PlantVillage
+D00017,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (17).JPG",PlantVillage
+D00018,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (18).JPG",PlantVillage
+D00019,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (19).JPG",PlantVillage
+D00020,Apple,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Apple,Black rot\image (20).JPG",PlantVillage
+D00021,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (1).JPG",PlantVillage
+D00022,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (2).JPG",PlantVillage
+D00023,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (3).JPG",PlantVillage
+D00024,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (4).JPG",PlantVillage
+D00025,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (5).JPG",PlantVillage
+D00026,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (6).JPG",PlantVillage
+D00027,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (7).JPG",PlantVillage
+D00028,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (8).JPG",PlantVillage
+D00029,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (9).JPG",PlantVillage
+D00030,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (10).JPG",PlantVillage
+D00031,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (11).JPG",PlantVillage
+D00032,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (12).JPG",PlantVillage
+D00033,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (13).JPG",PlantVillage
+D00034,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (14).JPG",PlantVillage
+D00035,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (15).JPG",PlantVillage
+D00036,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (16).JPG",PlantVillage
+D00037,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (17).JPG",PlantVillage
+D00038,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (18).JPG",PlantVillage
+D00039,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (19).JPG",PlantVillage
+D00040,Apple,"yellow orange spots, circular in shape, varying in size",Cedar apple rust,"images\Apple,Cedar apple rust\image (20).JPG",PlantVillage
+D00041,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (1).JPG",PlantVillage
+D00042,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (2).JPG",PlantVillage
+D00043,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (3).JPG",PlantVillage
+D00044,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (4).JPG",PlantVillage
+D00045,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (5).JPG",PlantVillage
+D00046,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (6).JPG",PlantVillage
+D00047,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (7).JPG",PlantVillage
+D00048,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (8).JPG",PlantVillage
+D00049,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (9).JPG",PlantVillage
+D00050,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (10).JPG",PlantVillage
+D00051,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (11).JPG",PlantVillage
+D00052,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (12).JPG",PlantVillage
+D00053,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (13).JPG",PlantVillage
+D00054,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (14).JPG",PlantVillage
+D00055,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (15).JPG",PlantVillage
+D00056,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (16).JPG",PlantVillage
+D00057,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (17).JPG",PlantVillage
+D00058,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (18).JPG",PlantVillage
+D00059,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (19).JPG",PlantVillage
+D00060,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (20).JPG",PlantVillage
+D00061,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (21).JPG",PlantVillage
+D00062,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (22).JPG",PlantVillage
+D00063,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (23).JPG",PlantVillage
+D00064,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (24).JPG",PlantVillage
+D00065,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (25).JPG",PlantVillage
+D00066,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (26).JPG",PlantVillage
+D00067,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (27).JPG",PlantVillage
+D00068,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (28).JPG",PlantVillage
+D00069,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (29).JPG",PlantVillage
+D00070,Apple,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Apple,healthy\image (30).JPG",PlantVillage
+D00071,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (1).JPG",PlantVillage
+D00072,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (2).JPG",PlantVillage
+D00073,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (3).JPG",PlantVillage
+D00074,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (4).JPG",PlantVillage
+D00075,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (5).JPG",PlantVillage
+D00076,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (6).JPG",PlantVillage
+D00077,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (7).JPG",PlantVillage
+D00078,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (8).JPG",PlantVillage
+D00079,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (9).JPG",PlantVillage
+D00080,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (10).JPG",PlantVillage
+D00081,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (11).JPG",PlantVillage
+D00082,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (12).JPG",PlantVillage
+D00083,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (13).JPG",PlantVillage
+D00084,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (14).JPG",PlantVillage
+D00085,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (15).JPG",PlantVillage
+D00086,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (16).JPG",PlantVillage
+D00087,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (17).JPG",PlantVillage
+D00088,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (18).JPG",PlantVillage
+D00089,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (19).JPG",PlantVillage
+D00090,Apple,"dark brown, olive green to black spots, circula and irregular",scab,"images\Apple,scab\image (20).JPG",PlantVillage
+D00091,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (1).JPG",PlantVillage
+D00092,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (2).JPG",PlantVillage
+D00093,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (3).JPG",PlantVillage
+D00094,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (4).JPG",PlantVillage
+D00095,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (5).JPG",PlantVillage
+D00096,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (6).JPG",PlantVillage
+D00097,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (7).JPG",PlantVillage
+D00098,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (8).JPG",PlantVillage
+D00099,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (9).JPG",PlantVillage
+D00100,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (10).JPG",PlantVillage
+D00101,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (11).JPG",PlantVillage
+D00102,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (12).JPG",PlantVillage
+D00103,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (13).JPG",PlantVillage
+D00104,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (14).JPG",PlantVillage
+D00105,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (15).JPG",PlantVillage
+D00106,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (16).JPG",PlantVillage
+D00107,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (17).JPG",PlantVillage
+D00108,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (18).JPG",PlantVillage
+D00109,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (19).JPG",PlantVillage
+D00110,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (20).JPG",PlantVillage
+D00111,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (21).JPG",PlantVillage
+D00112,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (22).JPG",PlantVillage
+D00113,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (23).JPG",PlantVillage
+D00114,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (24).JPG",PlantVillage
+D00115,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (25).JPG",PlantVillage
+D00116,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (26).JPG",PlantVillage
+D00117,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (27).JPG",PlantVillage
+D00118,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (28).JPG",PlantVillage
+D00119,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (29).JPG",PlantVillage
+D00120,Bell Pepper,"dark brown to black spots, water-soaked spots,irregular",Bacterial Spot,"images\Bell Pepper,Bacterial spot\image (30).JPG",PlantVillage
+D00121,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (1).JPG",PlantVillage
+D00122,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (2).JPG",PlantVillage
+D00123,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (3).JPG",PlantVillage
+D00124,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (4).JPG",PlantVillage
+D00125,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (5).JPG",PlantVillage
+D00126,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (6).JPG",PlantVillage
+D00127,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (7).JPG",PlantVillage
+D00128,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (8).JPG",PlantVillage
+D00129,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (9).JPG",PlantVillage
+D00130,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (10).JPG",PlantVillage
+D00131,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (11).JPG",PlantVillage
+D00132,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (12).JPG",PlantVillage
+D00133,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (13).JPG",PlantVillage
+D00134,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (14).JPG",PlantVillage
+D00135,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (15).JPG",PlantVillage
+D00136,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (16).JPG",PlantVillage
+D00137,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (17).JPG",PlantVillage
+D00138,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (18).JPG",PlantVillage
+D00139,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (19).JPG",PlantVillage
+D00140,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (20).JPG",PlantVillage
+D00141,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (21).JPG",PlantVillage
+D00142,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (22).JPG",PlantVillage
+D00143,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (23).JPG",PlantVillage
+D00144,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (24).JPG",PlantVillage
+D00145,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (25).JPG",PlantVillage
+D00146,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (26).JPG",PlantVillage
+D00147,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (27).JPG",PlantVillage
+D00148,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (28).JPG",PlantVillage
+D00149,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (29).JPG",PlantVillage
+D00150,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (30).JPG",PlantVillage
+D00151,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (31).JPG",PlantVillage
+D00152,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (32).JPG",PlantVillage
+D00153,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (33).JPG",PlantVillage
+D00154,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (34).JPG",PlantVillage
+D00155,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (35).JPG",PlantVillage
+D00156,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (36).JPG",PlantVillage
+D00157,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (37).JPG",PlantVillage
+D00158,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (38).JPG",PlantVillage
+D00159,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (39).JPG",PlantVillage
+D00160,Bell Pepper,"no spots,bite marks,or abnormal areas observed/present on the leaf",Healthy,"images\Bell Pepper,healthy\image (40).JPG",PlantVillage
+D00161,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (1).JPG",PlantVillage
+D00162,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (2).JPG",PlantVillage
+D00163,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (3).JPG",PlantVillage
+D00164,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (4).JPG",PlantVillage
+D00165,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (5).JPG",PlantVillage
+D00166,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (6).JPG",PlantVillage
+D00167,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (7).JPG",PlantVillage
+D00168,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (8).JPG",PlantVillage
+D00169,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (9).JPG",PlantVillage
+D00170,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (10).JPG",PlantVillage
+D00171,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (11).JPG",PlantVillage
+D00172,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (12).JPG",PlantVillage
+D00173,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (13).JPG",PlantVillage
+D00174,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (14).JPG",PlantVillage
+D00175,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (15).JPG",PlantVillage
+D00176,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (16).JPG",PlantVillage
+D00177,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (17).JPG",PlantVillage
+D00178,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (18).JPG",PlantVillage
+D00179,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (19).JPG",PlantVillage
+D00180,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (20).JPG",PlantVillage
+D00181,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (21).JPG",PlantVillage
+D00182,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (22).JPG",PlantVillage
+D00183,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (23).JPG",PlantVillage
+D00184,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (24).JPG",PlantVillage
+D00185,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (25).JPG",PlantVillage
+D00186,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (26).JPG",PlantVillage
+D00187,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (27).JPG",PlantVillage
+D00188,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (28).JPG",PlantVillage
+D00189,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (29).JPG",PlantVillage
+D00190,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (30).JPG",PlantVillage
+D00191,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (31).JPG",PlantVillage
+D00192,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (32).JPG",PlantVillage
+D00193,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (33).JPG",PlantVillage
+D00194,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (34).JPG",PlantVillage
+D00195,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (35).JPG",PlantVillage
+D00196,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (36).JPG",PlantVillage
+D00197,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (37).JPG",PlantVillage
+D00198,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (38).JPG",PlantVillage
+D00199,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (39).JPG",PlantVillage
+D00200,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (40).JPG",PlantVillage
+D00201,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (41).JPG",PlantVillage
+D00202,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (42).JPG",PlantVillage
+D00203,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (43).JPG",PlantVillage
+D00204,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (44).JPG",PlantVillage
+D00205,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (45).JPG",PlantVillage
+D00206,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (46).JPG",PlantVillage
+D00207,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (47).JPG",PlantVillage
+D00208,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (48).JPG",PlantVillage
+D00209,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (49).JPG",PlantVillage
+D00210,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (50).JPG",PlantVillage
+D00211,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (51).JPG",PlantVillage
+D00212,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (52).JPG",PlantVillage
+D00213,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (53).JPG",PlantVillage
+D00214,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (54).JPG",PlantVillage
+D00215,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (55).JPG",PlantVillage
+D00216,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (56).JPG",PlantVillage
+D00217,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (57).JPG",PlantVillage
+D00218,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (58).JPG",PlantVillage
+D00219,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (59).JPG",PlantVillage
+D00220,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (60).JPG",PlantVillage
+D00221,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (61).JPG",PlantVillage
+D00222,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (62).JPG",PlantVillage
+D00223,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (63).JPG",PlantVillage
+D00224,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (64).JPG",PlantVillage
+D00225,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (65).JPG",PlantVillage
+D00226,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (66).JPG",PlantVillage
+D00227,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (67).JPG",PlantVillage
+D00228,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (68).JPG",PlantVillage
+D00229,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (69).JPG",PlantVillage
+D00230,Blueberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Blueberry,healthy\image (70).JPG",PlantVillage
+D00231,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (1).JPG",PlantVillage
+D00232,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (2).JPG",PlantVillage
+D00233,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (3).JPG",PlantVillage
+D00234,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (4).JPG",PlantVillage
+D00235,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (5).JPG",PlantVillage
+D00236,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (6).JPG",PlantVillage
+D00237,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (7).JPG",PlantVillage
+D00238,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (8).JPG",PlantVillage
+D00239,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (9).JPG",PlantVillage
+D00240,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (10).JPG",PlantVillage
+D00241,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (11).JPG",PlantVillage
+D00242,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (12).JPG",PlantVillage
+D00243,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (13).JPG",PlantVillage
+D00244,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (14).JPG",PlantVillage
+D00245,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (15).JPG",PlantVillage
+D00246,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (16).JPG",PlantVillage
+D00247,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (17).JPG",PlantVillage
+D00248,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (18).JPG",PlantVillage
+D00249,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (19).JPG",PlantVillage
+D00250,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (20).JPG",PlantVillage
+D00251,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (21).JPG",PlantVillage
+D00252,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (22).JPG",PlantVillage
+D00253,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (23).JPG",PlantVillage
+D00254,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (24).JPG",PlantVillage
+D00255,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (25).JPG",PlantVillage
+D00256,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (26).JPG",PlantVillage
+D00257,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (27).JPG",PlantVillage
+D00258,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (28).JPG",PlantVillage
+D00259,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (29).JPG",PlantVillage
+D00260,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (30).JPG",PlantVillage
+D00261,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (31).JPG",PlantVillage
+D00262,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (32).JPG",PlantVillage
+D00263,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (33).JPG",PlantVillage
+D00264,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (34).JPG",PlantVillage
+D00265,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (35).JPG",PlantVillage
+D00266,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (36).JPG",PlantVillage
+D00267,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (37).JPG",PlantVillage
+D00268,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (38).JPG",PlantVillage
+D00269,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (39).JPG",PlantVillage
+D00270,Cherry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Cherry,healthy\image (40).JPG",PlantVillage
+D00271,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (1).JPG",PlantVillage
+D00272,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (2).JPG",PlantVillage
+D00273,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (3).JPG",PlantVillage
+D00274,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (4).JPG",PlantVillage
+D00275,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (5).JPG",PlantVillage
+D00276,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (6).JPG",PlantVillage
+D00277,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (7).JPG",PlantVillage
+D00278,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (8).JPG",PlantVillage
+D00279,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (9).JPG",PlantVillage
+D00280,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (10).JPG",PlantVillage
+D00281,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (11).JPG",PlantVillage
+D00282,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (12).JPG",PlantVillage
+D00283,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (13).JPG",PlantVillage
+D00284,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (14).JPG",PlantVillage
+D00285,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (15).JPG",PlantVillage
+D00286,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (16).JPG",PlantVillage
+D00287,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (17).JPG",PlantVillage
+D00288,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (18).JPG",PlantVillage
+D00289,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (19).JPG",PlantVillage
+D00290,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (20).JPG",PlantVillage
+D00291,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (21).JPG",PlantVillage
+D00292,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (22).JPG",PlantVillage
+D00293,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (23).JPG",PlantVillage
+D00294,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (24).JPG",PlantVillage
+D00295,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (25).JPG",PlantVillage
+D00296,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (26).JPG",PlantVillage
+D00297,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (27).JPG",PlantVillage
+D00298,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (28).JPG",PlantVillage
+D00299,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (29).JPG",PlantVillage
+D00300,Cherry,"white powdery spots, circular spots, irregular",Powdery mildew,"images\Cherry,Powdery mildew\image (30).JPG",PlantVillage
+D00301,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (1).jpg",PlantVillage
+D00302,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (2).jpg",PlantVillage
+D00303,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (3).jpg",PlantVillage
+D00304,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (4).jpg",PlantVillage
+D00305,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (5).jpg",PlantVillage
+D00306,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (6).jpg",PlantVillage
+D00307,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (7).jpg",PlantVillage
+D00308,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (8).jpg",PlantVillage
+D00309,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (9).jpg",PlantVillage
+D00310,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (10).jpg",PlantVillage
+D00311,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (11).jpg",PlantVillage
+D00312,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (12).jpg",PlantVillage
+D00313,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (13).jpg",PlantVillage
+D00314,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (14).jpg",PlantVillage
+D00315,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (15).jpg",PlantVillage
+D00316,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (16).jpg",PlantVillage
+D00317,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (17).jpg",PlantVillage
+D00318,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (18).jpg",PlantVillage
+D00319,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (19).jpg",PlantVillage
+D00320,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (20).jpg",PlantVillage
+D00321,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (21).jpg",PlantVillage
+D00322,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (22).jpg",PlantVillage
+D00323,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (23).jpg",PlantVillage
+D00324,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (24).jpg",PlantVillage
+D00325,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (25).jpg",PlantVillage
+D00326,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (26).jpg",PlantVillage
+D00327,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (27).jpg",PlantVillage
+D00328,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (28).jpg",PlantVillage
+D00329,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (29).jpg",PlantVillage
+D00330,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (30).jpg",PlantVillage
+D00331,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (31).jpg",PlantVillage
+D00332,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (32).jpg",PlantVillage
+D00333,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (33).jpg",PlantVillage
+D00334,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (34).jpg",PlantVillage
+D00335,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (35).jpg",PlantVillage
+D00336,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (36).jpg",PlantVillage
+D00337,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (37).jpg",PlantVillage
+D00338,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (38).jpg",PlantVillage
+D00339,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (39).jpg",PlantVillage
+D00340,Corn,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Corn,healthy\image (40).jpg",PlantVillage
+D00341,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (1).JPG",PlantVillage
+D00342,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (2).JPG",PlantVillage
+D00343,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (3).JPG",PlantVillage
+D00344,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (4).JPG",PlantVillage
+D00345,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (5).JPG",PlantVillage
+D00346,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (6).JPG",PlantVillage
+D00347,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (7).JPG",PlantVillage
+D00348,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (8).JPG",PlantVillage
+D00349,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (9).JPG",PlantVillage
+D00350,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (10).JPG",PlantVillage
+D00351,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (11).JPG",PlantVillage
+D00352,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (12).JPG",PlantVillage
+D00353,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (13).JPG",PlantVillage
+D00354,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (14).JPG",PlantVillage
+D00355,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (15).JPG",PlantVillage
+D00356,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (16).JPG",PlantVillage
+D00357,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (17).JPG",PlantVillage
+D00358,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (18).JPG",PlantVillage
+D00359,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (19).JPG",PlantVillage
+D00360,Corn,"yellow orange, yellow brown, reddish brown pustules, circular spots",Leaf Rust,"images\Corn,Leaf Rust\image (20).JPG",PlantVillage
+D00361,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (1).JPG",PlantVillage
+D00362,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (2).JPG",PlantVillage
+D00363,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (3).JPG",PlantVillage
+D00364,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (4).jpg",PlantVillage
+D00365,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (5).JPG",PlantVillage
+D00366,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (6).JPG",PlantVillage
+D00367,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (7).jpg",PlantVillage
+D00368,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (8).JPG",PlantVillage
+D00369,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (9).JPG",PlantVillage
+D00370,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (10).JPG",PlantVillage
+D00371,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (11).JPG",PlantVillage
+D00372,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (12).JPG",PlantVillage
+D00373,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (13).JPG",PlantVillage
+D00374,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (14).JPG",PlantVillage
+D00375,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (15).JPG",PlantVillage
+D00376,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (16).JPG",PlantVillage
+D00377,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (17).JPG",PlantVillage
+D00378,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (18).JPG",PlantVillage
+D00379,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (19).JPG",PlantVillage
+D00380,Corn,"tan to brown spots,dark brown circular spots",Leaf Spot,"images\Corn,Leaf Spot\image (20).jpg",PlantVillage
+D00381,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (1).JPG",PlantVillage
+D00382,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (2).JPG",PlantVillage
+D00383,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (3).JPG",PlantVillage
+D00384,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (4).JPG",PlantVillage
+D00385,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (5).JPG",PlantVillage
+D00386,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (6).JPG",PlantVillage
+D00387,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (7).JPG",PlantVillage
+D00388,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (8).JPG",PlantVillage
+D00389,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (9).JPG",PlantVillage
+D00390,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (10).JPG",PlantVillage
+D00391,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (11).JPG",PlantVillage
+D00392,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (12).JPG",PlantVillage
+D00393,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (13).JPG",PlantVillage
+D00394,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (14).JPG",PlantVillage
+D00395,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (15).jpg",PlantVillage
+D00396,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (16).JPG",PlantVillage
+D00397,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (17).JPG",PlantVillage
+D00398,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (18).JPG",PlantVillage
+D00399,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (19).JPG",PlantVillage
+D00400,Corn,"elongated, dark brown to gray lesions present",Northern Leaf Blight,"images\Corn,Northern Leaf Blight\image (20).jpg",PlantVillage
+D00401,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (1).JPG",PlantVillage
+D00402,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (2).JPG",PlantVillage
+D00403,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (3).JPG",PlantVillage
+D00404,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (4).JPG",PlantVillage
+D00405,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (5).JPG",PlantVillage
+D00406,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (6).JPG",PlantVillage
+D00407,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (7).JPG",PlantVillage
+D00408,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (8).JPG",PlantVillage
+D00409,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (9).JPG",PlantVillage
+D00410,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (10).JPG",PlantVillage
+D00411,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (11).JPG",PlantVillage
+D00412,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (12).JPG",PlantVillage
+D00413,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (13).JPG",PlantVillage
+D00414,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (14).JPG",PlantVillage
+D00415,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (15).JPG",PlantVillage
+D00416,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (16).JPG",PlantVillage
+D00417,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (17).JPG",PlantVillage
+D00418,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (18).JPG",PlantVillage
+D00419,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (19).JPG",PlantVillage
+D00420,Grape,"dark brown to black spots,mostly circular in shape,varying in size",Black rot,"images\Grape,Black rot\image (20).JPG",PlantVillage
+D00421,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (1).JPG",PlantVillage
+D00422,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (2).JPG",PlantVillage
+D00423,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (3).JPG",PlantVillage
+D00424,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (4).JPG",PlantVillage
+D00425,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (5).JPG",PlantVillage
+D00426,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (6).JPG",PlantVillage
+D00427,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (7).JPG",PlantVillage
+D00428,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (8).JPG",PlantVillage
+D00429,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (9).JPG",PlantVillage
+D00430,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (10).JPG",PlantVillage
+D00431,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (11).JPG",PlantVillage
+D00432,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (12).JPG",PlantVillage
+D00433,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (13).JPG",PlantVillage
+D00434,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (14).JPG",PlantVillage
+D00435,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (15).JPG",PlantVillage
+D00436,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (16).JPG",PlantVillage
+D00437,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (17).JPG",PlantVillage
+D00438,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (18).JPG",PlantVillage
+D00439,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (19).JPG",PlantVillage
+D00440,Grape,"dark brown to black, yellow brown, irregular light brown spots, circular",Esca,"images\Grape,Esca\image (20).JPG",PlantVillage
+D00441,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (1).JPG",PlantVillage
+D00442,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (2).JPG",PlantVillage
+D00443,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (3).JPG",PlantVillage
+D00444,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (4).JPG",PlantVillage
+D00445,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (5).JPG",PlantVillage
+D00446,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (6).JPG",PlantVillage
+D00447,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (7).JPG",PlantVillage
+D00448,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (8).JPG",PlantVillage
+D00449,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (9).JPG",PlantVillage
+D00450,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (10).JPG",PlantVillage
+D00451,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (11).JPG",PlantVillage
+D00452,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (12).JPG",PlantVillage
+D00453,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (13).JPG",PlantVillage
+D00454,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (14).JPG",PlantVillage
+D00455,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (15).JPG",PlantVillage
+D00456,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (16).JPG",PlantVillage
+D00457,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (17).JPG",PlantVillage
+D00458,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (18).JPG",PlantVillage
+D00459,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (19).JPG",PlantVillage
+D00460,Grape,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Grape,healthy\image (20).JPG",PlantVillage
+D00461,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (1).JPG",PlantVillage
+D00462,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (2).JPG",PlantVillage
+D00463,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (3).JPG",PlantVillage
+D00464,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (4).JPG",PlantVillage
+D00465,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (5).JPG",PlantVillage
+D00466,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (6).JPG",PlantVillage
+D00467,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (7).JPG",PlantVillage
+D00468,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (8).JPG",PlantVillage
+D00469,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (9).JPG",PlantVillage
+D00470,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (10).JPG",PlantVillage
+D00471,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (11).JPG",PlantVillage
+D00472,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (12).JPG",PlantVillage
+D00473,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (13).JPG",PlantVillage
+D00474,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (14).JPG",PlantVillage
+D00475,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (15).JPG",PlantVillage
+D00476,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (16).JPG",PlantVillage
+D00477,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (17).JPG",PlantVillage
+D00478,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (18).JPG",PlantVillage
+D00479,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (19).JPG",PlantVillage
+D00480,Grape,"brown, dark brown, irregular spots ranging from dark brown to black",Leaf blight,"images\Grape,Leaf blight\image (20).JPG",PlantVillage
+D00481,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (1).JPG",PlantVillage
+D00482,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (2).JPG",PlantVillage
+D00483,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (3).JPG",PlantVillage
+D00484,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (4).JPG",PlantVillage
+D00485,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (5).JPG",PlantVillage
+D00486,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (6).JPG",PlantVillage
+D00487,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (7).JPG",PlantVillage
+D00488,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (8).JPG",PlantVillage
+D00489,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (9).JPG",PlantVillage
+D00490,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (10).JPG",PlantVillage
+D00491,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (11).JPG",PlantVillage
+D00492,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (12).JPG",PlantVillage
+D00493,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (13).JPG",PlantVillage
+D00494,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (14).JPG",PlantVillage
+D00495,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (15).JPG",PlantVillage
+D00496,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (16).JPG",PlantVillage
+D00497,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (17).JPG",PlantVillage
+D00498,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (18).JPG",PlantVillage
+D00499,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (19).JPG",PlantVillage
+D00500,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (20).JPG",PlantVillage
+D00501,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (21).JPG",PlantVillage
+D00502,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (22).JPG",PlantVillage
+D00503,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (23).JPG",PlantVillage
+D00504,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (24).JPG",PlantVillage
+D00505,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (25).JPG",PlantVillage
+D00506,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (26).JPG",PlantVillage
+D00507,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (27).JPG",PlantVillage
+D00508,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (28).JPG",PlantVillage
+D00509,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (29).JPG",PlantVillage
+D00510,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (30).JPG",PlantVillage
+D00511,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (31).JPG",PlantVillage
+D00512,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (32).JPG",PlantVillage
+D00513,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (33).JPG",PlantVillage
+D00514,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (34).JPG",PlantVillage
+D00515,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (35).JPG",PlantVillage
+D00516,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (36).JPG",PlantVillage
+D00517,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (37).JPG",PlantVillage
+D00518,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (38).JPG",PlantVillage
+D00519,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (39).JPG",PlantVillage
+D00520,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (40).JPG",PlantVillage
+D00521,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (41).JPG",PlantVillage
+D00522,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (42).JPG",PlantVillage
+D00523,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (43).JPG",PlantVillage
+D00524,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (44).JPG",PlantVillage
+D00525,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (45).JPG",PlantVillage
+D00526,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (46).JPG",PlantVillage
+D00527,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (47).JPG",PlantVillage
+D00528,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (48).JPG",PlantVillage
+D00529,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (49).JPG",PlantVillage
+D00530,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (50).JPG",PlantVillage
+D00531,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (51).JPG",PlantVillage
+D00532,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (52).JPG",PlantVillage
+D00533,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (53).JPG",PlantVillage
+D00534,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (54).JPG",PlantVillage
+D00535,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (55).JPG",PlantVillage
+D00536,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (56).JPG",PlantVillage
+D00537,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (57).JPG",PlantVillage
+D00538,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (58).JPG",PlantVillage
+D00539,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (59).JPG",PlantVillage
+D00540,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (60).JPG",PlantVillage
+D00541,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (61).JPG",PlantVillage
+D00542,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (62).JPG",PlantVillage
+D00543,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (63).JPG",PlantVillage
+D00544,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (64).JPG",PlantVillage
+D00545,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (65).JPG",PlantVillage
+D00546,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (66).JPG",PlantVillage
+D00547,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (67).JPG",PlantVillage
+D00548,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (68).JPG",PlantVillage
+D00549,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (69).JPG",PlantVillage
+D00550,Orange,"leaves mottled, yellowing, distortion, yellow spots, irregular",Citrus greening,"images\Orange,Citrus greening\image (70).JPG",PlantVillage
+D00551,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (1).JPG",PlantVillage
+D00552,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (2).JPG",PlantVillage
+D00553,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (3).JPG",PlantVillage
+D00554,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (4).JPG",PlantVillage
+D00555,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (5).JPG",PlantVillage
+D00556,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (6).JPG",PlantVillage
+D00557,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (7).JPG",PlantVillage
+D00558,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (8).JPG",PlantVillage
+D00559,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (9).JPG",PlantVillage
+D00560,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (10).JPG",PlantVillage
+D00561,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (11).JPG",PlantVillage
+D00562,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (12).JPG",PlantVillage
+D00563,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (13).JPG",PlantVillage
+D00564,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (14).JPG",PlantVillage
+D00565,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (15).JPG",PlantVillage
+D00566,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (16).JPG",PlantVillage
+D00567,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (17).JPG",PlantVillage
+D00568,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (18).JPG",PlantVillage
+D00569,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (19).JPG",PlantVillage
+D00570,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (20).JPG",PlantVillage
+D00571,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (21).JPG",PlantVillage
+D00572,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (22).JPG",PlantVillage
+D00573,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (23).JPG",PlantVillage
+D00574,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (24).JPG",PlantVillage
+D00575,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (25).JPG",PlantVillage
+D00576,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (26).JPG",PlantVillage
+D00577,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (27).JPG",PlantVillage
+D00578,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (28).JPG",PlantVillage
+D00579,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (29).JPG",PlantVillage
+D00580,Peach,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Peach,Bacterial spot\image (30).JPG",PlantVillage
+D00581,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (1).JPG",PlantVillage
+D00582,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (2).JPG",PlantVillage
+D00583,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (3).JPG",PlantVillage
+D00584,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (4).JPG",PlantVillage
+D00585,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (5).JPG",PlantVillage
+D00586,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (6).JPG",PlantVillage
+D00587,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (7).JPG",PlantVillage
+D00588,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (8).JPG",PlantVillage
+D00589,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (9).JPG",PlantVillage
+D00590,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (10).JPG",PlantVillage
+D00591,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (11).JPG",PlantVillage
+D00592,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (12).JPG",PlantVillage
+D00593,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (13).JPG",PlantVillage
+D00594,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (14).JPG",PlantVillage
+D00595,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (15).JPG",PlantVillage
+D00596,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (16).JPG",PlantVillage
+D00597,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (17).JPG",PlantVillage
+D00598,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (18).JPG",PlantVillage
+D00599,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (19).JPG",PlantVillage
+D00600,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (20).JPG",PlantVillage
+D00601,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (21).JPG",PlantVillage
+D00602,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (22).JPG",PlantVillage
+D00603,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (23).JPG",PlantVillage
+D00604,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (24).JPG",PlantVillage
+D00605,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (25).JPG",PlantVillage
+D00606,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (26).JPG",PlantVillage
+D00607,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (27).JPG",PlantVillage
+D00608,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (28).JPG",PlantVillage
+D00609,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (29).JPG",PlantVillage
+D00610,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (30).JPG",PlantVillage
+D00611,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (31).JPG",PlantVillage
+D00612,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (32).JPG",PlantVillage
+D00613,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (33).JPG",PlantVillage
+D00614,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (34).JPG",PlantVillage
+D00615,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (35).JPG",PlantVillage
+D00616,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (36).JPG",PlantVillage
+D00617,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (37).JPG",PlantVillage
+D00618,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (38).JPG",PlantVillage
+D00619,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (39).JPG",PlantVillage
+D00620,Peach,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Peach,healthy\image (40).JPG",PlantVillage
+D00621,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (1).JPG",PlantVillage
+D00622,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (2).JPG",PlantVillage
+D00623,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (3).JPG",PlantVillage
+D00624,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (4).JPG",PlantVillage
+D00625,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (5).JPG",PlantVillage
+D00626,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (6).JPG",PlantVillage
+D00627,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (7).JPG",PlantVillage
+D00628,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (8).JPG",PlantVillage
+D00629,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (9).JPG",PlantVillage
+D00630,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (10).JPG",PlantVillage
+D00631,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (11).JPG",PlantVillage
+D00632,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (12).JPG",PlantVillage
+D00633,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (13).JPG",PlantVillage
+D00634,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (14).JPG",PlantVillage
+D00635,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (15).JPG",PlantVillage
+D00636,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (16).JPG",PlantVillage
+D00637,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (17).JPG",PlantVillage
+D00638,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (18).JPG",PlantVillage
+D00639,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (19).JPG",PlantVillage
+D00640,Potato,"dark brown to black, dark brown spots, circular, irregular",Early blight,"images\Potato,Early blight\image (20).JPG",PlantVillage
+D00641,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (1).JPG",PlantVillage
+D00642,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (2).JPG",PlantVillage
+D00643,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (3).JPG",PlantVillage
+D00644,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (4).JPG",PlantVillage
+D00645,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (5).JPG",PlantVillage
+D00646,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (6).JPG",PlantVillage
+D00647,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (7).JPG",PlantVillage
+D00648,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (8).JPG",PlantVillage
+D00649,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (9).JPG",PlantVillage
+D00650,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (10).JPG",PlantVillage
+D00651,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (11).JPG",PlantVillage
+D00652,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (12).JPG",PlantVillage
+D00653,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (13).JPG",PlantVillage
+D00654,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (14).JPG",PlantVillage
+D00655,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (15).JPG",PlantVillage
+D00656,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (16).JPG",PlantVillage
+D00657,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (17).JPG",PlantVillage
+D00658,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (18).JPG",PlantVillage
+D00659,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (19).JPG",PlantVillage
+D00660,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (20).JPG",PlantVillage
+D00661,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (21).JPG",PlantVillage
+D00662,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (22).JPG",PlantVillage
+D00663,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (23).JPG",PlantVillage
+D00664,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (24).JPG",PlantVillage
+D00665,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (25).JPG",PlantVillage
+D00666,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (26).JPG",PlantVillage
+D00667,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (27).JPG",PlantVillage
+D00668,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (28).JPG",PlantVillage
+D00669,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (29).JPG",PlantVillage
+D00670,Potato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Potato,healthy\image (30).JPG",PlantVillage
+D00671,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (1).JPG",PlantVillage
+D00672,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (2).JPG",PlantVillage
+D00673,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (3).JPG",PlantVillage
+D00674,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (4).JPG",PlantVillage
+D00675,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (5).JPG",PlantVillage
+D00676,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (6).JPG",PlantVillage
+D00677,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (7).JPG",PlantVillage
+D00678,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (8).JPG",PlantVillage
+D00679,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (9).JPG",PlantVillage
+D00680,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (10).JPG",PlantVillage
+D00681,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (11).JPG",PlantVillage
+D00682,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (12).JPG",PlantVillage
+D00683,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (13).JPG",PlantVillage
+D00684,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (14).JPG",PlantVillage
+D00685,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (15).JPG",PlantVillage
+D00686,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (16).JPG",PlantVillage
+D00687,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (17).JPG",PlantVillage
+D00688,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (18).JPG",PlantVillage
+D00689,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (19).JPG",PlantVillage
+D00690,Potato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Potato,Late blight\image (20).JPG",PlantVillage
+D00691,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (1).JPG",PlantVillage
+D00692,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (2).JPG",PlantVillage
+D00693,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (3).JPG",PlantVillage
+D00694,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (4).JPG",PlantVillage
+D00695,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (5).JPG",PlantVillage
+D00696,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (6).JPG",PlantVillage
+D00697,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (7).JPG",PlantVillage
+D00698,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (8).JPG",PlantVillage
+D00699,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (9).JPG",PlantVillage
+D00700,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (10).JPG",PlantVillage
+D00701,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (11).JPG",PlantVillage
+D00702,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (12).JPG",PlantVillage
+D00703,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (13).JPG",PlantVillage
+D00704,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (14).JPG",PlantVillage
+D00705,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (15).JPG",PlantVillage
+D00706,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (16).JPG",PlantVillage
+D00707,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (17).JPG",PlantVillage
+D00708,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (18).JPG",PlantVillage
+D00709,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (19).JPG",PlantVillage
+D00710,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (20).JPG",PlantVillage
+D00711,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (21).JPG",PlantVillage
+D00712,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (22).JPG",PlantVillage
+D00713,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (23).JPG",PlantVillage
+D00714,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (24).JPG",PlantVillage
+D00715,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (25).JPG",PlantVillage
+D00716,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (26).JPG",PlantVillage
+D00717,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (27).JPG",PlantVillage
+D00718,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (28).JPG",PlantVillage
+D00719,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (29).JPG",PlantVillage
+D00720,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (30).JPG",PlantVillage
+D00721,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (31).JPG",PlantVillage
+D00722,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (32).JPG",PlantVillage
+D00723,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (33).JPG",PlantVillage
+D00724,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (34).JPG",PlantVillage
+D00725,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (35).JPG",PlantVillage
+D00726,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (36).JPG",PlantVillage
+D00727,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (37).JPG",PlantVillage
+D00728,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (38).JPG",PlantVillage
+D00729,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (39).JPG",PlantVillage
+D00730,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (40).JPG",PlantVillage
+D00731,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (41).JPG",PlantVillage
+D00732,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (42).JPG",PlantVillage
+D00733,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (43).JPG",PlantVillage
+D00734,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (44).JPG",PlantVillage
+D00735,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (45).JPG",PlantVillage
+D00736,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (46).JPG",PlantVillage
+D00737,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (47).JPG",PlantVillage
+D00738,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (48).JPG",PlantVillage
+D00739,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (49).JPG",PlantVillage
+D00740,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (50).JPG",PlantVillage
+D00741,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (51).JPG",PlantVillage
+D00742,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (52).JPG",PlantVillage
+D00743,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (53).JPG",PlantVillage
+D00744,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (54).JPG",PlantVillage
+D00745,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (55).JPG",PlantVillage
+D00746,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (56).JPG",PlantVillage
+D00747,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (57).JPG",PlantVillage
+D00748,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (58).JPG",PlantVillage
+D00749,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (59).JPG",PlantVillage
+D00750,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (60).JPG",PlantVillage
+D00751,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (61).JPG",PlantVillage
+D00752,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (62).JPG",PlantVillage
+D00753,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (63).JPG",PlantVillage
+D00754,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (64).JPG",PlantVillage
+D00755,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (65).JPG",PlantVillage
+D00756,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (66).JPG",PlantVillage
+D00757,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (67).JPG",PlantVillage
+D00758,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (68).JPG",PlantVillage
+D00759,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (69).JPG",PlantVillage
+D00760,Raspberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Raspberry,healthy\image (70).JPG",PlantVillage
+D00761,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (1).JPG",PlantVillage
+D00762,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (2).JPG",PlantVillage
+D00763,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (3).JPG",PlantVillage
+D00764,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (4).JPG",PlantVillage
+D00765,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (5).JPG",PlantVillage
+D00766,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (6).JPG",PlantVillage
+D00767,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (7).JPG",PlantVillage
+D00768,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (8).JPG",PlantVillage
+D00769,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (9).JPG",PlantVillage
+D00770,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (10).JPG",PlantVillage
+D00771,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (11).JPG",PlantVillage
+D00772,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (12).JPG",PlantVillage
+D00773,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (13).JPG",PlantVillage
+D00774,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (14).JPG",PlantVillage
+D00775,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (15).JPG",PlantVillage
+D00776,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (16).JPG",PlantVillage
+D00777,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (17).JPG",PlantVillage
+D00778,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (18).JPG",PlantVillage
+D00779,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (19).JPG",PlantVillage
+D00780,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (20).JPG",PlantVillage
+D00781,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (21).JPG",PlantVillage
+D00782,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (22).JPG",PlantVillage
+D00783,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (23).JPG",PlantVillage
+D00784,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (24).JPG",PlantVillage
+D00785,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (25).JPG",PlantVillage
+D00786,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (26).JPG",PlantVillage
+D00787,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (27).JPG",PlantVillage
+D00788,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (28).JPG",PlantVillage
+D00789,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (29).JPG",PlantVillage
+D00790,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (30).JPG",PlantVillage
+D00791,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (31).JPG",PlantVillage
+D00792,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (32).JPG",PlantVillage
+D00793,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (33).JPG",PlantVillage
+D00794,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (34).JPG",PlantVillage
+D00795,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (35).JPG",PlantVillage
+D00796,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (36).JPG",PlantVillage
+D00797,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (37).JPG",PlantVillage
+D00798,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (38).JPG",PlantVillage
+D00799,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (39).JPG",PlantVillage
+D00800,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (40).JPG",PlantVillage
+D00801,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (41).JPG",PlantVillage
+D00802,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (42).JPG",PlantVillage
+D00803,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (43).JPG",PlantVillage
+D00804,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (44).JPG",PlantVillage
+D00805,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (45).JPG",PlantVillage
+D00806,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (46).JPG",PlantVillage
+D00807,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (47).JPG",PlantVillage
+D00808,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (48).JPG",PlantVillage
+D00809,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (49).JPG",PlantVillage
+D00810,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (50).JPG",PlantVillage
+D00811,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (51).JPG",PlantVillage
+D00812,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (52).JPG",PlantVillage
+D00813,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (53).JPG",PlantVillage
+D00814,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (54).JPG",PlantVillage
+D00815,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (55).JPG",PlantVillage
+D00816,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (56).JPG",PlantVillage
+D00817,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (57).JPG",PlantVillage
+D00818,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (58).JPG",PlantVillage
+D00819,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (59).JPG",PlantVillage
+D00820,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (60).JPG",PlantVillage
+D00821,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (61).JPG",PlantVillage
+D00822,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (62).JPG",PlantVillage
+D00823,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (63).JPG",PlantVillage
+D00824,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (64).JPG",PlantVillage
+D00825,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (65).JPG",PlantVillage
+D00826,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (66).JPG",PlantVillage
+D00827,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (67).JPG",PlantVillage
+D00828,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (68).JPG",PlantVillage
+D00829,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (69).JPG",PlantVillage
+D00830,Soybean,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Soybean,healthy\image (70).JPG",PlantVillage
+D00831,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (1).JPG",PlantVillage
+D00832,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (2).JPG",PlantVillage
+D00833,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (3).JPG",PlantVillage
+D00834,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (4).JPG",PlantVillage
+D00835,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (5).JPG",PlantVillage
+D00836,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (6).JPG",PlantVillage
+D00837,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (7).JPG",PlantVillage
+D00838,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (8).JPG",PlantVillage
+D00839,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (9).JPG",PlantVillage
+D00840,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (10).JPG",PlantVillage
+D00841,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (11).JPG",PlantVillage
+D00842,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (12).JPG",PlantVillage
+D00843,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (13).JPG",PlantVillage
+D00844,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (14).JPG",PlantVillage
+D00845,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (15).JPG",PlantVillage
+D00846,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (16).JPG",PlantVillage
+D00847,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (17).JPG",PlantVillage
+D00848,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (18).JPG",PlantVillage
+D00849,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (19).JPG",PlantVillage
+D00850,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (20).JPG",PlantVillage
+D00851,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (21).JPG",PlantVillage
+D00852,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (22).JPG",PlantVillage
+D00853,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (23).JPG",PlantVillage
+D00854,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (24).JPG",PlantVillage
+D00855,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (25).JPG",PlantVillage
+D00856,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (26).JPG",PlantVillage
+D00857,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (27).JPG",PlantVillage
+D00858,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (28).JPG",PlantVillage
+D00859,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (29).JPG",PlantVillage
+D00860,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (30).JPG",PlantVillage
+D00861,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (31).JPG",PlantVillage
+D00862,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (32).JPG",PlantVillage
+D00863,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (33).JPG",PlantVillage
+D00864,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (34).JPG",PlantVillage
+D00865,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (35).JPG",PlantVillage
+D00866,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (36).JPG",PlantVillage
+D00867,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (37).JPG",PlantVillage
+D00868,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (38).JPG",PlantVillage
+D00869,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (39).JPG",PlantVillage
+D00870,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (40).JPG",PlantVillage
+D00871,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (41).JPG",PlantVillage
+D00872,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (42).JPG",PlantVillage
+D00873,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (43).JPG",PlantVillage
+D00874,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (44).JPG",PlantVillage
+D00875,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (45).JPG",PlantVillage
+D00876,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (46).JPG",PlantVillage
+D00877,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (47).JPG",PlantVillage
+D00878,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (48).JPG",PlantVillage
+D00879,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (49).JPG",PlantVillage
+D00880,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (50).JPG",PlantVillage
+D00881,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (51).JPG",PlantVillage
+D00882,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (52).JPG",PlantVillage
+D00883,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (53).JPG",PlantVillage
+D00884,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (54).JPG",PlantVillage
+D00885,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (55).JPG",PlantVillage
+D00886,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (56).JPG",PlantVillage
+D00887,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (57).jpg",PlantVillage
+D00888,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (58).JPG",PlantVillage
+D00889,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (59).JPG",PlantVillage
+D00890,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (60).JPG",PlantVillage
+D00891,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (61).JPG",PlantVillage
+D00892,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (62).JPG",PlantVillage
+D00893,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (63).JPG",PlantVillage
+D00894,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (64).JPG",PlantVillage
+D00895,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (65).JPG",PlantVillage
+D00896,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (66).JPG",PlantVillage
+D00897,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (67).JPG",PlantVillage
+D00898,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (68).JPG",PlantVillage
+D00899,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (69).JPG",PlantVillage
+D00900,Squash,"White powdery spots appear on the leaves, and the disease spreads to the stem and fruit. The leaves turn yellow and wither",Powdery mildew,"images\Squash,Powdery mildew\image (70).JPG",PlantVillage
+D00901,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (1).JPG",PlantVillage
+D00902,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (2).JPG",PlantVillage
+D00903,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (3).JPG",PlantVillage
+D00904,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (4).JPG",PlantVillage
+D00905,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (5).JPG",PlantVillage
+D00906,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (6).JPG",PlantVillage
+D00907,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (7).JPG",PlantVillage
+D00908,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (8).JPG",PlantVillage
+D00909,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (9).JPG",PlantVillage
+D00910,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (10).JPG",PlantVillage
+D00911,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (11).JPG",PlantVillage
+D00912,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (12).JPG",PlantVillage
+D00913,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (13).JPG",PlantVillage
+D00914,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (14).JPG",PlantVillage
+D00915,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (15).JPG",PlantVillage
+D00916,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (16).JPG",PlantVillage
+D00917,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (17).JPG",PlantVillage
+D00918,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (18).JPG",PlantVillage
+D00919,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (19).JPG",PlantVillage
+D00920,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (20).JPG",PlantVillage
+D00921,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (21).JPG",PlantVillage
+D00922,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (22).JPG",PlantVillage
+D00923,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (23).JPG",PlantVillage
+D00924,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (24).JPG",PlantVillage
+D00925,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (25).JPG",PlantVillage
+D00926,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (26).JPG",PlantVillage
+D00927,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (27).JPG",PlantVillage
+D00928,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (28).JPG",PlantVillage
+D00929,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (29).JPG",PlantVillage
+D00930,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (30).JPG",PlantVillage
+D00931,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (31).JPG",PlantVillage
+D00932,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (32).JPG",PlantVillage
+D00933,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (33).JPG",PlantVillage
+D00934,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (34).JPG",PlantVillage
+D00935,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (35).JPG",PlantVillage
+D00936,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (36).JPG",PlantVillage
+D00937,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (37).JPG",PlantVillage
+D00938,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (38).JPG",PlantVillage
+D00939,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (39).JPG",PlantVillage
+D00940,Strawberry,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Strawberry,healthy\image (40).JPG",PlantVillage
+D00941,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (1).JPG",PlantVillage
+D00942,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (2).JPG",PlantVillage
+D00943,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (3).JPG",PlantVillage
+D00944,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (4).JPG",PlantVillage
+D00945,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (5).JPG",PlantVillage
+D00946,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (6).JPG",PlantVillage
+D00947,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (7).JPG",PlantVillage
+D00948,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (8).JPG",PlantVillage
+D00949,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (9).JPG",PlantVillage
+D00950,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (10).JPG",PlantVillage
+D00951,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (11).JPG",PlantVillage
+D00952,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (12).JPG",PlantVillage
+D00953,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (13).JPG",PlantVillage
+D00954,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (14).JPG",PlantVillage
+D00955,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (15).JPG",PlantVillage
+D00956,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (16).JPG",PlantVillage
+D00957,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (17).JPG",PlantVillage
+D00958,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (18).JPG",PlantVillage
+D00959,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (19).JPG",PlantVillage
+D00960,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (20).JPG",PlantVillage
+D00961,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (21).JPG",PlantVillage
+D00962,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (22).JPG",PlantVillage
+D00963,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (23).JPG",PlantVillage
+D00964,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (24).JPG",PlantVillage
+D00965,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (25).JPG",PlantVillage
+D00966,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (26).JPG",PlantVillage
+D00967,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (27).JPG",PlantVillage
+D00968,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (28).JPG",PlantVillage
+D00969,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (29).JPG",PlantVillage
+D00970,Strawberry,"green, yellow, irregular brown spots, burnt or scorched ",Leaf scorch,"images\Strawberry,Leaf scorch\image (30).JPG",PlantVillage
+D00971,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (1).JPG",PlantVillage
+D00972,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (2).JPG",PlantVillage
+D00973,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (3).JPG",PlantVillage
+D00974,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (4).JPG",PlantVillage
+D00975,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (5).JPG",PlantVillage
+D00976,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (6).JPG",PlantVillage
+D00977,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (7).JPG",PlantVillage
+D00978,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (8).JPG",PlantVillage
+D00979,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (9).JPG",PlantVillage
+D00980,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (10).JPG",PlantVillage
+D00981,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (11).JPG",PlantVillage
+D00982,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (12).JPG",PlantVillage
+D00983,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (13).JPG",PlantVillage
+D00984,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (14).JPG",PlantVillage
+D00985,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (15).JPG",PlantVillage
+D00986,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (16).JPG",PlantVillage
+D00987,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (17).JPG",PlantVillage
+D00988,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (18).JPG",PlantVillage
+D00989,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (19).JPG",PlantVillage
+D00990,Tomato,"dark brown to black spots, water-soaked spots,irregular ",Bacterial spot,"images\Tomato,Bacterial spot\image (20).JPG",PlantVillage
+D00991,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (1).JPG",PlantVillage
+D00992,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (2).JPG",PlantVillage
+D00993,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (3).JPG",PlantVillage
+D00994,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (4).JPG",PlantVillage
+D00995,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (5).JPG",PlantVillage
+D00996,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (6).JPG",PlantVillage
+D00997,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (7).JPG",PlantVillage
+D00998,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (8).JPG",PlantVillage
+D00999,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (9).JPG",PlantVillage
+D01000,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (10).JPG",PlantVillage
+D01001,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (11).JPG",PlantVillage
+D01002,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (12).JPG",PlantVillage
+D01003,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (13).JPG",PlantVillage
+D01004,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (14).JPG",PlantVillage
+D01005,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (15).JPG",PlantVillage
+D01006,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (16).JPG",PlantVillage
+D01007,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (17).JPG",PlantVillage
+D01008,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (18).JPG",PlantVillage
+D01009,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (19).JPG",PlantVillage
+D01010,Tomato,"dark brown to black spots, brown spots, circular, irregular",Early blight,"images\Tomato,Early blight\image (20).JPG",PlantVillage
+D01011,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (1).JPG",PlantVillage
+D01012,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (2).JPG",PlantVillage
+D01013,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (3).JPG",PlantVillage
+D01014,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (4).JPG",PlantVillage
+D01015,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (5).JPG",PlantVillage
+D01016,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (6).JPG",PlantVillage
+D01017,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (7).JPG",PlantVillage
+D01018,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (8).JPG",PlantVillage
+D01019,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (9).JPG",PlantVillage
+D01020,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (10).JPG",PlantVillage
+D01021,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (11).JPG",PlantVillage
+D01022,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (12).JPG",PlantVillage
+D01023,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (13).JPG",PlantVillage
+D01024,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (14).JPG",PlantVillage
+D01025,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (15).JPG",PlantVillage
+D01026,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (16).JPG",PlantVillage
+D01027,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (17).JPG",PlantVillage
+D01028,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (18).JPG",PlantVillage
+D01029,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (19).JPG",PlantVillage
+D01030,Tomato,"no spots,bite marks,or abnormal areas observed/present on the leaf",healthy,"images\Tomato,healthy\image (20).JPG",PlantVillage
+D01031,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (1).JPG",PlantVillage
+D01032,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (2).JPG",PlantVillage
+D01033,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (3).JPG",PlantVillage
+D01034,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (4).JPG",PlantVillage
+D01035,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (5).JPG",PlantVillage
+D01036,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (6).JPG",PlantVillage
+D01037,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (7).JPG",PlantVillage
+D01038,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (8).JPG",PlantVillage
+D01039,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (9).JPG",PlantVillage
+D01040,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (10).JPG",PlantVillage
+D01041,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (11).JPG",PlantVillage
+D01042,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (12).JPG",PlantVillage
+D01043,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (13).JPG",PlantVillage
+D01044,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (14).JPG",PlantVillage
+D01045,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (15).jpg",PlantVillage
+D01046,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (16).JPG",PlantVillage
+D01047,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (17).JPG",PlantVillage
+D01048,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (18).JPG",PlantVillage
+D01049,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (19).JPG",PlantVillage
+D01050,Tomato,"dark brown to black, dark brown spots, irregular, circular, water-soaked lesions",Late blight,"images\Tomato,Late blight\image (20).jpeg",PlantVillage
+D01051,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (1).JPG",PlantVillage
+D01052,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (2).JPG",PlantVillage
+D01053,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (3).JPG",PlantVillage
+D01054,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (4).JPG",PlantVillage
+D01055,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (5).JPG",PlantVillage
+D01056,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (6).JPG",PlantVillage
+D01057,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (7).JPG",PlantVillage
+D01058,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (8).JPG",PlantVillage
+D01059,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (9).JPG",PlantVillage
+D01060,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (10).JPG",PlantVillage
+D01061,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (11).JPG",PlantVillage
+D01062,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (12).JPG",PlantVillage
+D01063,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (13).JPG",PlantVillage
+D01064,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (14).JPG",PlantVillage
+D01065,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (15).JPG",PlantVillage
+D01066,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (16).JPG",PlantVillage
+D01067,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (17).JPG",PlantVillage
+D01068,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (18).JPG",PlantVillage
+D01069,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (19).JPG",PlantVillage
+D01070,Tomato,Light yellow to light green spots,Leaf Mold,"images\Tomato,Leaf Mold\image (20).JPG",PlantVillage
+D01071,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (1).JPG",PlantVillage
+D01072,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (2).JPG",PlantVillage
+D01073,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (3).JPG",PlantVillage
+D01074,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (4).JPG",PlantVillage
+D01075,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (5).JPG",PlantVillage
+D01076,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (6).JPG",PlantVillage
+D01077,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (7).JPG",PlantVillage
+D01078,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (8).JPG",PlantVillage
+D01079,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (9).JPG",PlantVillage
+D01080,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (10).JPG",PlantVillage
+D01081,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (11).JPG",PlantVillage
+D01082,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (12).JPG",PlantVillage
+D01083,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (13).JPG",PlantVillage
+D01084,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (14).JPG",PlantVillage
+D01085,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (15).JPG",PlantVillage
+D01086,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (16).JPG",PlantVillage
+D01087,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (17).JPG",PlantVillage
+D01088,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (18).JPG",PlantVillage
+D01089,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (19).JPG",PlantVillage
+D01090,Tomato,irregular yellow and green mosaic patterns/mottle,mosaic virus,"images\Tomato,mosaic virus\image (20).JPG",PlantVillage
+D01091,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (1).JPG",PlantVillage
+D01092,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (2).JPG",PlantVillage
+D01093,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (3).JPG",PlantVillage
+D01094,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (4).JPG",PlantVillage
+D01095,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (5).JPG",PlantVillage
+D01096,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (6).JPG",PlantVillage
+D01097,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (7).JPG",PlantVillage
+D01098,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (8).JPG",PlantVillage
+D01099,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (9).JPG",PlantVillage
+D01100,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (10).JPG",PlantVillage
+D01101,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (11).JPG",PlantVillage
+D01102,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (12).JPG",PlantVillage
+D01103,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (13).JPG",PlantVillage
+D01104,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (14).JPG",PlantVillage
+D01105,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (15).JPG",PlantVillage
+D01106,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (16).JPG",PlantVillage
+D01107,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (17).JPG",PlantVillage
+D01108,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (18).JPG",PlantVillage
+D01109,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (19).JPG",PlantVillage
+D01110,Tomato,"dark brown to black spots, yellow brown to brown, irregular to circular, yellow halo",Septoria leaf spot,"images\Tomato,Septoria leaf spot\image (20).JPG",PlantVillage
+D01111,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (1).JPG",PlantVillage
+D01112,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (2).JPG",PlantVillage
+D01113,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (3).JPG",PlantVillage
+D01114,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (4).JPG",PlantVillage
+D01115,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (5).JPG",PlantVillage
+D01116,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (6).JPG",PlantVillage
+D01117,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (7).JPG",PlantVillage
+D01118,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (8).JPG",PlantVillage
+D01119,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (9).JPG",PlantVillage
+D01120,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (10).JPG",PlantVillage
+D01121,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (11).JPG",PlantVillage
+D01122,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (12).JPG",PlantVillage
+D01123,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (13).JPG",PlantVillage
+D01124,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (14).JPG",PlantVillage
+D01125,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (15).JPG",PlantVillage
+D01126,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (16).JPG",PlantVillage
+D01127,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (17).JPG",PlantVillage
+D01128,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (18).JPG",PlantVillage
+D01129,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (19).JPG",PlantVillage
+D01130,Tomato,"small, yellowing spot,irregular, webbing spider mites",Spider mites,"images\Tomato,Spider mites\image (20).JPG",PlantVillage
+D01131,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (1).JPG",PlantVillage
+D01132,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (2).JPG",PlantVillage
+D01133,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (3).JPG",PlantVillage
+D01134,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (4).JPG",PlantVillage
+D01135,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (5).JPG",PlantVillage
+D01136,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (6).JPG",PlantVillage
+D01137,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (7).JPG",PlantVillage
+D01138,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (8).JPG",PlantVillage
+D01139,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (9).JPG",PlantVillage
+D01140,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (10).JPG",PlantVillage
+D01141,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (11).JPG",PlantVillage
+D01142,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (12).JPG",PlantVillage
+D01143,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (13).JPG",PlantVillage
+D01144,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (14).JPG",PlantVillage
+D01145,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (15).JPG",PlantVillage
+D01146,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (16).JPG",PlantVillage
+D01147,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (17).JPG",PlantVillage
+D01148,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (18).JPG",PlantVillage
+D01149,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (19).JPG",PlantVillage
+D01150,Tomato,"dark brown spots, brown to black, irregular, circular, yellow halo",Target Spot,"images\Tomato,Target Spot\image (20).JPG",PlantVillage
+D01151,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (1).JPG",PlantVillage
+D01152,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (2).JPG",PlantVillage
+D01153,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (3).JPG",PlantVillage
+D01154,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (4).JPG",PlantVillage
+D01155,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (5).JPG",PlantVillage
+D01156,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (6).JPG",PlantVillage
+D01157,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (7).JPG",PlantVillage
+D01158,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (8).JPG",PlantVillage
+D01159,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (9).JPG",PlantVillage
+D01160,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (10).JPG",PlantVillage
+D01161,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (11).JPG",PlantVillage
+D01162,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (12).JPG",PlantVillage
+D01163,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (13).JPG",PlantVillage
+D01164,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (14).JPG",PlantVillage
+D01165,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (15).JPG",PlantVillage
+D01166,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (16).JPG",PlantVillage
+D01167,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (17).JPG",PlantVillage
+D01168,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (18).JPG",PlantVillage
+D01169,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (19).JPG",PlantVillage
+D01170,Tomato,the edges of the leaves curl and yellow,Yellow Leaf Curl Virus,"images\Tomato,Yellow Leaf Curl Virus\image (20).JPG",PlantVillage
