@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Dataset Preparation
 
-Prepare the following files:
+Due to the large size of the full dataset, it is not included in the repository. Interested researchers may contact the authors to obtain access. Prepare the following files:
 
 ```text
 dataset/
