@@ -1,0 +1,8 @@
+openai
+numpy
+pandas
+tqdm
+faiss-cpu
+scikit-learn
+pillow
+opencv-python
